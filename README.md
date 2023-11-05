@@ -8,6 +8,9 @@ Foi necessário muita pesquisa, estudo e testes para criar este aplicativo. O pa
 
 Um detalhe importante é que esta solução é inteiramente gráfica. Todo o gerenciamento é feito pela web, das roles, dos users, das permissions, etc. O que torna o seu uso mais prático e fácil.
 
+$$Demo
+https://laravel.ribamar.net.br/
+
 ## Origens
 
 Há algum tempo eu criei este pacote
